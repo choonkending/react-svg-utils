@@ -1,0 +1,12 @@
+{
+  "name": "react-svg-utils",
+  "version": "0.0.1",
+  "description": "utility functions and components for svg in react",
+  "main": "index.js",
+  "repository": "git@github.com:choonkending/react-svg-utils.git",
+  "author": "Ken Ding <aenkil@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "^16.0.0"
+  }
+}
